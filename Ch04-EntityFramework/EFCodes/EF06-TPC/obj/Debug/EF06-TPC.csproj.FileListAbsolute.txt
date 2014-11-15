@@ -8,3 +8,13 @@ D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCode
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF06-TPC\obj\Debug\EF06-TPC.csprojResolveAssemblyReference.cache
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF06-TPC\obj\Debug\EF06-TPC.exe
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF06-TPC\obj\Debug\EF06-TPC.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EF06-TPC.exe.config
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EF06-TPC.exe
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EF06-TPC.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\obj\Debug\EF06-TPC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\obj\Debug\EF06-TPC.exe
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF06-TPC\obj\Debug\EF06-TPC.pdb

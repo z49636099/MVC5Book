@@ -8,3 +8,13 @@ D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCode
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF05-CodeFirstAPI\obj\Debug\EF05-CodeFirstAPI.csprojResolveAssemblyReference.cache
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF05-CodeFirstAPI\obj\Debug\EF05-CodeFirstAPI.exe
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF05-CodeFirstAPI\obj\Debug\EF05-CodeFirstAPI.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EF05-CodeFirstAPI.exe.config
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EF05-CodeFirstAPI.exe
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EF05-CodeFirstAPI.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\obj\Debug\EF05-CodeFirstAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\obj\Debug\EF05-CodeFirstAPI.exe
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF05-CodeFirstAPI\obj\Debug\EF05-CodeFirstAPI.pdb

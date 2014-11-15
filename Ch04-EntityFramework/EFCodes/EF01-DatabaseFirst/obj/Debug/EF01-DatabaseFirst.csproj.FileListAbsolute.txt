@@ -9,3 +9,38 @@ D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCode
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF01-DatabaseFirst\obj\Debug\EF01-DatabaseFirst.csprojResolveAssemblyReference.cache
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF01-DatabaseFirst\obj\Debug\EF01-DatabaseFirst.exe
 D:\NAS DataBackup\著作資料夾\ASP.NET MVC 5.0 開發美學\Ch04-Codes\EFCodes\EF01-DatabaseFirst\obj\Debug\EF01-DatabaseFirst.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EF01-DatabaseFirst.exe.config
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\EF01-DatabaseFirst.csprojFakesResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EF01-DatabaseFirst.exe
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EF01-DatabaseFirst.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EntityFramework.Fakes.fakesconfig
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.Fakes.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.Fakes.fakesconfig
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.Fakes.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.Fakes.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\EntityFramework.xml
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.ah
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.ch
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.cs
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.csproj
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.fakes
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.fakesconfig
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\f.snk
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\o\EntityFramework.Fakes.dll
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\o\EntityFramework.Fakes.pdb
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\o\f.csproj.FileListAbsolute.txt
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\ef\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\Fakes\fakes.args
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\EF01-DatabaseFirst.exe
+C:\Users\Administrator\Source\Repos\MVC5Book2\Ch04-EntityFramework\EFCodes\EF01-DatabaseFirst\obj\Debug\EF01-DatabaseFirst.pdb
