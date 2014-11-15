@@ -12,6 +12,8 @@ namespace EF04_CodeFirstFromDb
         [StringLength(15)]
         public string City { get; set; }
 
+
+
         [Key]
         [Column(Order = 0)]
         [StringLength(40)]
